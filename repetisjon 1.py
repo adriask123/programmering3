@@ -2,7 +2,7 @@ tall= ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
 for i in tall:
     print(i)
 
-tall = 1
+number = "1"
 
-for i in tall(100):
-    print(tall + tall)
+for i in number:
+    print()
